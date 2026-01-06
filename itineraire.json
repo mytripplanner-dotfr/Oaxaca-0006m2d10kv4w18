@@ -1,0 +1,647 @@
+{
+  "pays": "Mexique",
+  "drapeau": "🇲🇽",
+  "symbole": "🌵",
+  "titre": "Évasion Relaxante au Cœur d'Oaxaca et de ses Côtes",
+  "budget_total": "Environ 3600 €/personne",
+  "duree": "21 jours",
+  "temps_vol": "7h30 (depuis Perrot, États-Unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sereine à Oaxaca et immersion au Zócalo",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous imprégner par l'ambiance décontractée d'Oaxaca. Une balade douce autour du Zócalo vous permettra de prendre vos marques et de savourer l'atmosphère locale.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international d'Oaxaca (OAX) et transfert vers votre hôtel.",
+        "<strong>🛏️</strong>: Installation et détente à votre hébergement.",
+        "<strong>🚶‍♂️</strong>: Balade tranquille autour du Zócalo et du Jardin de la Constitución, le cœur vibrant de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le Zócalo est le point de rencontre principal, idéal pour observer la vie locale et les musiciens de marimba."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🎨",
+      "titre": "Découverte des marchés colorés et de l'art sacré",
+      "legende": "Plongez dans l'effervescence des marchés locaux, où les couleurs et les saveurs s'entremêlent. L'après-midi, explorez la majesté du Templo de Santo Domingo, un chef-d'œuvre baroque.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🛍️</strong>: Visite des marchés Benito Juárez et 20 de Noviembre, pour une immersion sensorielle.",
+        "<strong>⛪</strong>: Exploration du Templo de Santo Domingo de Guzmán et de son ancien couvent.",
+        "<strong>🌿</strong>: Promenade relaxante dans le Jardin Ethnobotanique d'Oaxaca, adjacent au couvent."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado Benito Juárez, Oaxaca",
+          "categorie": "Marché",
+          "coords": { "lat": 17.0601, "lng": -96.7247 }
+        },
+        {
+          "nom_recherche": "Templo de Santo Domingo de Guzmán, Oaxaca",
+          "categorie": "Église",
+          "coords": { "lat": 17.0655, "lng": -96.7237 }
+        },
+        {
+          "nom_recherche": "Jardín Etnobotánico de Oaxaca",
+          "categorie": "Jardin",
+          "coords": { "lat": 17.0659, "lng": -96.7229 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍴",
+          "titre": "Gourmandise",
+          "texte": "Au marché 20 de Noviembre, ne manquez pas le \"Pasillo de Humo\" (allée de la fumée) pour déguster des viandes grillées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🗿",
+      "titre": "Majesté de Monte Albán et après-midi libre",
+      "legende": "Découvrez la grandeur des ruines de Monte Albán, un site archéologique zapotèque offrant des vues panoramiques. L'après-midi est dédiée à la détente ou à une exploration plus approfondie de la ville à votre rythme.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🏛️</strong>: Visite matinale du site archéologique de Monte Albán, classé au patrimoine mondial de l'UNESCO.",
+        "<strong>🚶‍♀️</strong>: Retour à Oaxaca et après-midi libre pour flâner, faire du shopping ou vous reposer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Zona Arqueológica de Monte Albán, Oaxaca",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 17.0458, "lng": -96.7672 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil",
+          "texte": "Prévoyez chapeau, crème solaire et eau pour la visite de Monte Albán, le soleil peut être intense."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "💧",
+      "titre": "Hierve el Agua, Mitla et l'Arbre du Tule",
+      "legende": "Une journée d'excursion pour admirer les cascades pétrifiées de Hierve el Agua, explorer les motifs géométriques de Mitla et contempler l'impressionnant Arbre du Tule.",
+      "lieu": "Vallée de Oaxaca",
+      "activites": [
+        "<strong>🏞️</strong>: Excursion aux \"cascades pétrifiées\" de Hierve el Agua, avec possibilité de baignade dans les bassins naturels.",
+        "<strong>🏛️</strong>: Découverte du site archéologique de Mitla, célèbre pour ses mosaïques de pierre.",
+        "<strong>🌳</strong>: Admiration de l'Arbre du Tule, un cyprès de Montezuma millénaire."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hierve el Agua, Oaxaca",
+          "categorie": "Site naturel",
+          "coords": { "lat": 16.8608, "lng": -96.2647 }
+        },
+        {
+          "nom_recherche": "Zona Arqueológica de Mitla, Oaxaca",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 16.9292, "lng": -96.3842 }
+        },
+        {
+          "nom_recherche": "Árbol del Tule, Santa María del Tule",
+          "categorie": "Arbre remarquable",
+          "coords": { "lat": 17.0478, "lng": -96.6375 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🏊",
+          "titre": "Détente",
+          "texte": "Les bassins de Hierve el Agua offrent une eau fraîche et minérale, parfaite pour se rafraîchir."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🥃",
+      "titre": "Sur la Route du Mezcal et artisanat local",
+      "legende": "Partez à la découverte de la boisson emblématique d'Oaxaca en visitant une distillerie artisanale de mezcal. L'après-midi, explorez un village d'artisans pour admirer leur savoir-faire ancestral.",
+      "lieu": "Vallée de Oaxaca",
+      "activites": [
+        "<strong>🥃</strong>: Visite d'un \"palenque\" (distillerie de mezcal) à Santiago Matatlán ou environs, avec dégustation.",
+        "<strong>🏺</strong>: Découverte du village de San Bartolo Coyotepec, réputé pour sa poterie noire.",
+        "<strong>🎨</strong>: Exploration de l'artisanat textile à Santo Tomás Jalieza, connu pour ses tissages au métier à tisser à ceinture."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Santiago Matatlán, Oaxaca",
+          "categorie": "Village Mezcalero",
+          "coords": { "lat": 16.9408, "lng": -96.4022 }
+        },
+        {
+          "nom_recherche": "San Bartolo Coyotepec, Oaxaca",
+          "categorie": "Village artisanal",
+          "coords": { "lat": 16.9742, "lng": -96.7008 }
+        },
+        {
+          "nom_recherche": "Santo Tomás Jalieza, Oaxaca",
+          "categorie": "Village artisanal",
+          "coords": { "lat": 16.9056, "lng": -96.6708 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Le mezcal est souvent dégusté avec des tranches d'orange et du \"sal de gusano\" (sel de ver), une expérience unique."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "👩‍🍳",
+      "titre": "Atelier de cuisine oaxaquénienne et après-midi détente",
+      "legende": "Plongez au cœur de la gastronomie locale avec un atelier de cuisine pour apprendre les secrets des plats emblématiques d'Oaxaca. L'après-midi est libre pour vous détendre ou explorer à votre guise.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>👩‍🍳</strong>: Participation à un atelier de cuisine oaxaquénienne, pour préparer et déguster des moles ou des tlayudas.",
+        "<strong>💆‍♀️</strong>: Après-midi libre pour profiter d'un massage relaxant ou explorer les galeries d'art du quartier de Jalatlaco."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jalatlaco, Oaxaca",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 17.0675, "lng": -96.7142 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Saveurs",
+          "texte": "La cuisine d'Oaxaca est réputée pour sa complexité et la richesse de ses saveurs, notamment ses sept types de mole."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🚶‍♀️",
+      "titre": "Flânerie urbaine et découverte des musées",
+      "legende": "Profitez d'une journée plus calme pour explorer les rues colorées d'Oaxaca, visiter des musées ou simplement vous imprégner de l'ambiance des cafés locaux.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Balade libre dans les rues du centre historique, classé au patrimoine mondial.",
+        "<strong>🖼️</strong>: Visite du Museo de los Pintores Oaxaqueños ou du Museo Textil de Oaxaca.",
+        "<strong>☕</strong>: Pause café dans l'un des nombreux établissements charmants de la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Museo de los Pintores Oaxaqueños, Oaxaca",
+          "categorie": "Musée d'art",
+          "coords": { "lat": 17.0608, "lng": -96.7251 }
+        },
+        {
+          "nom_recherche": "Museo Textil de Oaxaca",
+          "categorie": "Musée textile",
+          "coords": { "lat": 17.0617, "lng": -96.7242 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Shopping",
+          "texte": "Les rues autour du Zócalo regorgent de boutiques d'artisanat où trouver des souvenirs uniques."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée de bien-être et relaxation",
+      "legende": "Une journée entièrement dédiée à votre bien-être. Profitez d'un cours de yoga, d'un soin au spa ou simplement d'un moment de lecture dans un patio fleuri.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🧘‍♀️</strong>: Cours de yoga ou de méditation dans un studio local.",
+        "<strong>🧖‍♀️</strong>: Séance de spa ou de massage pour une relaxation profonde.",
+        "<strong>📖</strong>: Après-midi tranquille, lecture ou contemplation dans un jardin secret d'Oaxaca."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🌸",
+          "titre": "Sérénité",
+          "texte": "De nombreux hôtels et centres proposent des services de bien-être pour une pause ressourçante."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🎶",
+      "titre": "Musique, danse et soirée culturelle",
+      "legende": "Découvrez la richesse culturelle d'Oaxaca à travers sa musique et ses danses traditionnelles. Terminez la journée par un dîner savoureux dans une ambiance festive.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🎶</strong>: Visite du Centro Cultural San Pablo pour des expositions ou concerts (selon programme).",
+        "<strong>💃</strong>: Assister à un spectacle de danse folklorique (Guelaguetza miniature) si disponible.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant avec musique live, savourant les spécialités locales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Centro Cultural San Pablo, Oaxaca",
+          "categorie": "Centre culturel",
+          "coords": { "lat": 17.0628, "lng": -96.7242 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🎭",
+          "titre": "Culture",
+          "texte": "La Guelaguetza est la fête la plus importante d'Oaxaca, célébrée en juillet, mais des représentations plus petites ont lieu toute l'année."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🏞️",
+      "titre": "Excursion à San Agustín Etla et art contemporain",
+      "legende": "Échappez à l'agitation de la ville pour une journée à San Agustín Etla, un village pittoresque abritant un centre d'art contemporain et des paysages verdoyants.",
+      "lieu": "San Agustín Etla",
+      "activites": [
+        "<strong>🚌</strong>: Excursion matinale vers San Agustín Etla, un village niché dans les montagnes.",
+        "<strong>🖼️</strong>: Visite du Centro de las Artes de San Agustín (CaSa), une ancienne usine textile transformée en centre d'art.",
+        "<strong>🚶‍♂️</strong>: Balade douce dans les environs du village, profitant de la nature et de l'air frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Centro de las Artes de San Agustín, Etla",
+          "categorie": "Centre d'art",
+          "coords": { "lat": 17.2025, "lng": -96.7825 }
+        },
+        {
+          "nom_recherche": "San Agustín Etla, Oaxaca",
+          "categorie": "Village",
+          "coords": { "lat": 17.2000, "lng": -96.7800 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🍃",
+          "titre": "Nature",
+          "texte": "Les environs de San Agustín Etla sont parfaits pour des promenades tranquilles et l'observation des oiseaux."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "✈️",
+      "titre": "Vol vers les plages paradisiaques de Huatulco",
+      "legende": "Après avoir exploré la richesse culturelle d'Oaxaca, envolez-vous vers la côte pacifique pour une nouvelle phase de détente. Huatulco vous attend avec ses plages de sable fin et ses eaux turquoise.",
+      "lieu": "Bahías de Huatulco",
+      "activites": [
+        "<strong>✈️</strong>: Vol matinal de Oaxaca (OAX) à Huatulco (HUX).",
+        "<strong>🛏️</strong>: Transfert et installation dans votre hôtel à Huatulco.",
+        "<strong>🏖️</strong>: Première détente sur la plage de votre choix, comme Bahía Tangolunda."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International de Huatulco",
+          "categorie": "Aéroport",
+          "coords": { "lat": 15.7761, "lng": -96.2625 }
+        },
+        {
+          "nom_recherche": "Bahía Tangolunda, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7600, "lng": -96.1000 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Climat",
+          "texte": "Huatulco bénéficie d'un climat tropical chaud toute l'année, parfait pour la baignade et le farniente."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "⛵",
+      "titre": "Croisière relaxante dans les 7 baies de Huatulco",
+      "legende": "Embarquez pour une croisière paisible à travers les célèbres 7 baies de Huatulco. Profitez de la brise marine, des paysages côtiers et de la possibilité de nager dans des eaux cristallines.",
+      "lieu": "Bahías de Huatulco",
+      "activites": [
+        "<strong>⛵</strong>: Excursion en bateau pour découvrir les 7 baies de Huatulco, avec arrêts pour la baignade et la plongée libre.",
+        "<strong>🐠</strong>: Snorkeling dans des baies calmes comme La Entrega ou Maguey, pour admirer la vie marine.",
+        "<strong>🍽️</strong>: Déjeuner de fruits de mer frais sur une plage isolée accessible uniquement par bateau."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bahías de Huatulco",
+          "categorie": "Baies",
+          "coords": { "lat": 15.7500, "lng": -96.1500 }
+        },
+        {
+          "nom_recherche": "Playa La Entrega, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7500, "lng": -96.1300 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🐬",
+          "titre": "Faune marine",
+          "texte": "Gardez l'œil ouvert, il est fréquent d'apercevoir des dauphins ou des tortues marines lors de ces excursions."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🌴",
+      "titre": "Journée farniente à Playa La Bocana et boue thérapeutique",
+      "legende": "Détendez-vous sur la plage de La Bocana, connue pour ses vagues douces et son ambiance locale. Profitez d'une expérience unique avec la boue thérapeutique naturelle.",
+      "lieu": "Bahías de Huatulco",
+      "activites": [
+        "<strong>🏖️</strong>: Matinée de relaxation à Playa La Bocana, idéale pour la baignade et les bains de soleil.",
+        "<strong>🧖‍♀️</strong>: Expérience de boue thérapeutique naturelle, réputée pour ses bienfaits pour la peau.",
+        "<strong>🚶‍♀️</strong>: Promenade le long de la plage au coucher du soleil."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Playa La Bocana, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7400, "lng": -96.1000 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Bien-être",
+          "texte": "La boue de La Bocana est riche en minéraux et est utilisée depuis des générations pour ses propriétés curatives."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "☕",
+      "titre": "Découverte d'une plantation de café et paysages montagneux",
+      "legende": "Échappez à la chaleur côtière pour une excursion rafraîchissante dans les montagnes de la Sierra Madre. Visitez une plantation de café et apprenez tout sur le processus de production, de la graine à la tasse.",
+      "lieu": "Sierra Madre del Sur",
+      "activites": [
+        "<strong>☕</strong>: Excursion vers une plantation de café (finca cafetera) dans les montagnes, comme Finca Las Plumas.",
+        "<strong>🚶‍♂️</strong>: Visite guidée de la plantation, expliquant la culture et la transformation du café.",
+        "<strong> degustation</strong>: Dégustation de café frais et savoureux, avec vue sur les paysages verdoyants."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Finca Las Plumas, Huatulco",
+          "categorie": "Plantation de café",
+          "coords": { "lat": 15.9000, "lng": -96.3000 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "⛰️",
+          "titre": "Altitude",
+          "texte": "Les plantations de café sont situées en altitude, offrant un climat plus frais et des vues spectaculaires."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🛍️",
+      "titre": "Exploration de La Crucecita et shopping artisanal",
+      "legende": "Passez la journée à La Crucecita, le centre-ville de Huatulco. Flânez dans ses rues, découvrez son église et ses marchés d'artisanat pour trouver des souvenirs uniques.",
+      "lieu": "La Crucecita, Huatulco",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Exploration du centre-ville de La Crucecita, avec ses places et son église.",
+        "<strong>🛍️</strong>: Visite du marché d'artisanat local pour des souvenirs et produits régionaux.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant local, savourant les fruits de mer frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "La Crucecita, Huatulco",
+          "categorie": "Ville",
+          "coords": { "lat": 15.7700, "lng": -96.1300 }
+        },
+        {
+          "nom_recherche": "Parque Central La Crucecita, Huatulco",
+          "categorie": "Parc",
+          "coords": { "lat": 15.7700, "lng": -96.1300 }
+        }
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "⛪",
+          "titre": "Curiosité",
+          "texte": "L'église de La Crucecita abrite la plus grande peinture de la Vierge de Guadalupe au monde sur son plafond."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🏖️",
+      "titre": "Détente à Bahía Maguey et saveurs marines",
+      "legende": "Profitez d'une journée de pure détente sur la magnifique Bahía Maguey, une plage réputée pour ses eaux calmes et ses restaurants de fruits de mer frais directement sur le sable.",
+      "lieu": "Bahía Maguey, Huatulco",
+      "activites": [
+        "<strong>🏖️</strong>: Matinée et après-midi de farniente à Bahía Maguey, baignade et bronzage.",
+        "<strong>🍽️</strong>: Déjeuner de poisson frais ou de crevettes dans l'un des \"palapas\" (restaurants de plage).",
+        "<strong>🌅</strong>: Admirer le coucher de soleil sur l'océan Pacifique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bahía Maguey, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7200, "lng": -96.1500 }
+        }
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "🐠",
+          "titre": "Gastronomie",
+          "texte": "Les fruits de mer à Huatulco sont d'une fraîcheur incomparable, souvent pêchés le matin même."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🧘",
+      "titre": "Journée libre pour la relaxation ou activités douces",
+      "legende": "Cette journée est entièrement à votre disposition pour vous détendre comme vous le souhaitez. Que ce soit à la plage, au bord de la piscine ou avec un bon livre, le maître-mot est la sérénité.",
+      "lieu": "Bahías de Huatulco",
+      "activites": [
+        "<strong>🧘</strong>: Matinée de méditation ou de yoga face à l'océan.",
+        "<strong>🏊‍♀️</strong>: Baignade et détente à la piscine de l'hôtel ou sur une plage tranquille.",
+        "<strong>📖</strong>: Après-midi libre pour la lecture, une sieste ou une promenade douce."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "💆‍♀️",
+          "titre": "Options",
+          "texte": "De nombreux hôtels proposent des services de spa, parfaits pour une journée de chouchoutage."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🛶",
+      "titre": "Kayak ou paddleboard dans les eaux calmes",
+      "legende": "Profitez des eaux calmes de certaines baies pour une activité douce et rafraîchissante. Louez un kayak ou un paddleboard et explorez la côte à votre rythme.",
+      "lieu": "Bahías de Huatulco",
+      "activites": [
+        "<strong>🛶</strong>: Location de kayak ou de paddleboard à Bahía Chahué ou Bahía Santa Cruz.",
+        "<strong>🚣‍♀️</strong>: Exploration des criques et des paysages côtiers depuis l'eau.",
+        "<strong>🍹</strong>: Dégustation d'une boisson rafraîchissante dans un bar de plage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bahía Chahué, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7600, "lng": -96.1400 }
+        },
+        {
+          "nom_recherche": "Bahía Santa Cruz, Huatulco",
+          "categorie": "Plage",
+          "coords": { "lat": 15.7600, "lng": -96.1500 }
+        }
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Sécurité",
+          "texte": "Toujours porter un gilet de sauvetage et vérifier les conditions météorologiques avant de partir en mer."
+        }
+      ]
+    },
+    {
+      "jour": 19,
+      "symbole": "🌅",
+      "titre": "Dernière matinée à la plage et vol retour vers Oaxaca",
+      "legende": "Profitez d'une dernière matinée sur les plages de Huatulco pour un dernier bain de soleil ou une baignade. En fin de journée, vous reprendrez un vol vers Oaxaca pour votre dernière nuit.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🏖️</strong>: Matinée libre pour profiter une dernière fois des plages de Huatulco.",
+        "<strong>✈️</strong>: Vol en fin d'après-midi de Huatulco (HUX) à Oaxaca (OAX).",
+        "<strong>🛏️</strong>: Installation dans un hôtel à Oaxaca pour votre dernière nuit."
+      ],
+      "illustration": "jour19.jpg",
+      "encarts": [
+        {
+          "symbole": "📦",
+          "titre": "Préparation",
+          "texte": "Pensez à faire vos valises et à organiser votre transfert vers l'aéroport de Huatulco."
+        }
+      ]
+    },
+    {
+      "jour": 20,
+      "symbole": "🎁",
+      "titre": "Derniers achats et douceurs oaxaquéniennes",
+      "legende": "Profitez de cette dernière journée à Oaxaca pour faire vos derniers achats de souvenirs, déguster une dernière fois vos plats préférés et vous imprégner une dernière fois de l'ambiance unique de la ville.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🛍️</strong>: Matinée dédiée aux derniers achats d'artisanat ou de produits locaux.",
+        "<strong>🍴</strong>: Déjeuner dans votre restaurant préféré pour savourer une dernière fois la cuisine oaxaquénienne.",
+        "<strong>🚶‍♀️</strong>: Balade tranquille dans les rues, pour profiter de l'ambiance avant le départ."
+      ],
+      "illustration": "jour20.jpg",
+      "encarts": [
+        {
+          "symbole": "🍫",
+          "titre": "Souvenir gourmand",
+          "texte": "N'oubliez pas d'acheter du chocolat d'Oaxaca, réputé pour sa qualité et ses saveurs uniques."
+        }
+      ]
+    },
+    {
+      "jour": 21,
+      "symbole": "🛫",
+      "titre": "Départ d'Oaxaca",
+      "legende": "C'est le moment de dire au revoir à la magnifique région d'Oaxaca. Après un petit-déjeuner relaxant, vous serez transféré à l'aéroport pour votre vol retour, la tête pleine de souvenirs inoubliables.",
+      "lieu": "Oaxaca de Juárez",
+      "activites": [
+        "<strong>🍳</strong>: Petit-déjeuner à l'hôtel.",
+        "<strong>🛫</strong>: Transfert à l'aéroport international d'Oaxaca (OAX) pour votre vol retour."
+      ],
+      "illustration": "jour21.jpg",
+      "encarts": [
+        {
+          "symbole": "👋",
+          "titre": "Au revoir",
+          "texte": "Assurez-vous d'avoir tous vos documents de voyage et d'arriver à l'aéroport suffisamment à l'avance."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 636 €/pers (vol international A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 550 €/pers (inclut vol OAX-HUX-OAX, taxis, bus locaux, excursions organisées)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 735 €/pers (35 €/jour pour 21 jours, restaurants de gamme moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1500 €/pers (75 €/nuit pour 20 nuits, hôtels 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 175 €/pers (entrées sites, ateliers, location kayak, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Octobre à Mai", "symbole": "☀️" },
+    { "titre": "Septembre (fin de saison des pluies, verdoyant)", "symbole": "🌧️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est le Peso Mexicain (MXN). Les cartes de crédit sont acceptées dans les grandes villes, mais prévoyez du liquide pour les petits commerces et les villages.", "symbole": "💳" },
+    { "titre": "Le climat à Oaxaca est tempéré et sec, tandis qu'à Huatulco il est tropical et humide. Prévoyez des vêtements légers, un chapeau, de la crème solaire et un imperméable léger pour les averses possibles en septembre/octobre.", "symbole": "☀️" },
+    { "titre": "L'espagnol est la langue officielle. Apprendre quelques phrases de base sera très apprécié par les locaux.", "symbole": "🗣️" },
+    { "titre": "L'eau du robinet n'est pas potable. Buvez de l'eau en bouteille ou filtrée. Soyez vigilant avec les aliments crus ou non pelés.", "symbole": "💧" },
+    { "titre": "Les taxis et les \"colectivos\" (taxis partagés) sont des moyens de transport courants et abordables. Pour les longues distances, les bus ADO sont confortables et fiables.", "symbole": "🚗" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Oaxaca est surnommée la \"Terre des Sept Moles\" en référence à ses sept variétés de sauces mole, chacune avec sa propre recette complexe et ses saveurs uniques. Un véritable trésor culinaire !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les \"chapulines\" (sauterelles grillées) sont une collation populaire à Oaxaca. Elles sont souvent assaisonnées de citron, de sel et de piment, offrant une expérience gustative croquante et surprenante."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Mole Oaxaquénien",
+      "description": "Une sauce riche et complexe, souvent à base de piments, épices, chocolat et fruits secs. Il existe sept variétés, dont le Mole Negro, le plus célèbre."
+    },
+    {
+      "symbole": "🌮",
+      "titre": "Tlayudas",
+      "description": "Souvent appelée la \"pizza mexicaine\", c'est une grande tortilla de maïs croustillante garnie de haricots, de fromage d'Oaxaca, de viande (tasajo, cecina) et de légumes."
+    },
+    {
+      "symbole": "🥃",
+      "titre": "Mezcal",
+      "description": "Boisson alcoolisée emblématique d'Oaxaca, distillée à partir de l'agave. Chaque mezcal a un profil de saveur unique selon le type d'agave et le processus de fabrication artisanal."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols internationaux", "titre": "Réserve ton vol DFW-OAX", "url": "https://www.kayak.fr/flights/DFW-OAX/2026-09-15/2026-10-06", "symbole": "🛬" },
+    { "legende": "Office du tourisme d'Oaxaca", "titre": "Visita Oaxaca", "url": "https://www.visitaoaxaca.com/", "symbole": "📘" },
+    { "legende": "Transports en bus au Mexique", "titre": "ADO Bus", "url": "https://www.ado.com.mx/", "symbole": "🚌" },
+    { "legende": "Météo au Mexique", "titre": "MeteoMex", "url": "https://www.meteomexico.com.mx/", "symbole": "🌤️" }
+  ]
+}
